@@ -2,8 +2,8 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "24105114159"],
-global.ownername = process.env.OWNER_NAME || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
+global.ownernumber = [ process.env.OWNER_NUMBER || "24106115738"],
+global.ownername = process.env.OWNER_NAME || "𓆩SARAH𓆪 ✇ ◤WORKER✞",
 global.ytname = "YT: kenzo3146"
 global.socialm = "GitHub: toge012345"
 global.location = "Africa"
@@ -11,9 +11,9 @@ global.location = "Africa"
 global.botname = process.env.BOTNAME || "𝐓𝐎𝐆𝐄-𝐌𝐃-𝐕𝟑",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "𝐓𝐎𝐆𝐄-𝐌𝐃-𝐕𝟑",
+global.stickername = process.env.STICKER || "🅢︎🅐︎🅡︎🅐︎🅗︎ 🅦︎🅞︎🅡︎🅚︎🅔︎🅡︎␈𓀐",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
+global.author = process.env.AUTHOR || "𓆩🅢︎🅐︎🅡︎🅐︎🅗︎ 🅦︎🅞︎🅡︎🅚︎🅔︎🅡︎𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
 //console view/theme
 global.themeemoji = '𓅃'
 global.wm = "𝐓𝐎𝐆𝐄_𝐁𝐎𝐓 𝐈𝐧𝐜 ✨"
